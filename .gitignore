@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Data folders (can remove if you want to track datasets)
+data/
+
+# Models (COMMENTED OUT so you can commit .pkl)
+# *.pkl
